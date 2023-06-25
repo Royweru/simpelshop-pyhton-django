@@ -1,0 +1,1 @@
+# simpelshop-pyhton-django
